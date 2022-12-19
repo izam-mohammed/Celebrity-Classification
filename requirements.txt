@@ -1,0 +1,6 @@
+PyWavelets==0.5.2
+opencv-python==3.4.3.18
+seaborn==0.8.1
+Flask==1.0.2
+numpy==1.16.2
+scikit-learn==0.20.3
