@@ -4,7 +4,7 @@ In this end-to-end data science and machine learning project, I classify sports 
 
 ![](https://tinyurl.com/bdh39buf)
 
-I also Restricted classification to only 5 people,
+### I also Restricted classification to only 5 people,
 1) Maria Sharapova
 2) Serena Williams
 3) Virat Kohli
