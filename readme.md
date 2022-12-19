@@ -1,8 +1,8 @@
 # Celebrity Image Classification Project
 
-![](project_UI.png)
-
 In this end-to-end data science and machine learning project, I classify sports personalities. After Hyperparameter tuning, I found that a Support Vector Machine (SVM) is best for this classification. The Model has 85% of accuracy in classifying images.In order to train the model I used images from google scraped with Fatkun chrome extention.
+
+![](https://tinyurl.com/bdh39buf)
 
 I also Restricted classification to only 5 people,
 1) Maria Sharapova
