@@ -1,0 +1,100 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+
+# Virtual environment
+venv/
+env/
+
+# Compiled bytecode
+*.pyc
+*.pyo
+__pycache__/
+
+# Database
+db.sqlite3
+
+# Media files
+media/
+
+# Static files collected by Django
+staticfiles/
+
+# Generated configuration files
+*.settings
+
+# Local development settings
+local_settings.py
+
+# macOS folder attributes
+.DS_Store
+
+# Compiled translations
+*.mo
+
+# IDE settings (specifically for PyCharm)
+.idea/
+
+# Python environment settings
+.python-version
+
+# Windows folder attributes
+Thumbs.db
+Desktop.ini
+
+# Cache files
+*.cache
+
+# Dependency management files
+Pipfile
+Pipfile.lock
+
+# Coverage data
+.coverage
+
+# Compiled HTML templates
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# IPython / Jupyter Notebook
+.ipynb_checkpoints
+
+# SageMath parsed files
+*.sage.py
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Poetry
+.pytest_cache/
+.poetry/
+
+# May also want to ignore your local configuration files:
+# .config/
+# .env
