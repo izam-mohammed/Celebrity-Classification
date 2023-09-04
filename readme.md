@@ -13,9 +13,9 @@
 <img src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
 </p>
 
-![](https://github.com/izam-mohammed/Celebrity-Classification/blob/main/project_UI.png?raw=true)
-
 In this end-to-end data science and machine learning project, I classify sports personalities. After Hyperparameter tuning, I found that a Support Vector Machine (SVM) is best for this classification. The Model has :chart_with_upwards_trend: 85% accuracy in classifying images. In order to train the model, I used images from Google scraped with Fatkun Chrome extension.
+
+![](https://github.com/izam-mohammed/Celebrity-Classification/blob/main/project_UI.png?raw=true)
 
 ### :busts_in_silhouette: Restricted classification to only 5 people:
 1) Maria Sharapova
