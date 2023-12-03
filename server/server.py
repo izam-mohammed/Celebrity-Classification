@@ -22,8 +22,12 @@ Requirements:
 - util (Custom module for image classification)
 """
 
-from flask import Flask, request, jsonify
+from flask import Flask, request, jsonify, render_template
 import util
+import os
+
+if os.getcwd().endswith('server'):
+    os.chdir('../')
 
 app = Flask(__name__)
 
@@ -46,4 +50,4 @@ def classify_image():
 if __name__ == "__main__":
     print("Starting Python Flask Server For Sports Celebrity Image Classification")
     util.load_saved_artifacts()
-    app.run(port=5000)
+    app.run(port=5000, debug=True)
